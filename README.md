@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![telegram badge](https://img.shields.io/badge/Physic-Hybrid-30302f?style=flat&logo=telegram)](https://t.me/Bad_Bunny_444)
+[![telegram badge](https://img.shields.io/badge/ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧-30302f?style=flat&logo=telegram)](https://t.me/Bad_Bunny_444)
 
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://telegram.me/Bad_Bunny_444)
 
@@ -8,7 +8,7 @@
 - ⚡ fact: I am Noob😌
 - 📫 How to reach me: Telegram - [ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧](https://telegram.me/Bad_Bunny_444)-->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Rippo123&show_icons=true&include_all_commits=11.1k+&cache_seconds=86400&theme=radica)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Rippo123&show_icons=true&all_commits=11.1k+&cache_seconds=86400&theme=radica)
 <br>
     
 ```
