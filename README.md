@@ -1,18 +1,18 @@
 ### Hi there 👋
-[![telegram badge](https://img.shields.io/badge/Physic-Hybrid-30302f?style=flat&logo=telegram)](https://t.me/Physic_hybrid)
+[![telegram badge](https://img.shields.io/badge/Physic-Hybrid-30302f?style=flat&logo=telegram)](https://t.me/Bad_Bunny_444)
 
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://telegram.me/Physic_Hybrid)
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://telegram.me/Bad_Bunny_444)
 
- - 🛩 Instrested in Coding 😁
+- 🛩 Instrested in Coding 😁
 - 📚 Still Studiying..😄
 - ⚡ fact: I am Noob😌
-- 📫 How to reach me: Telegram - [@Physic_Hybrid 🇵🇹/🇦🇪](https://telegram.me/AlbertEinstein_TG)-->
+- 📫 How to reach me: Telegram - [ᵀʰᵉ вα∂ вυηηу 🇮🇳/🇬🇧](https://telegram.me/Bad_Bunny_444)-->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PhysicHybridTG&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=radica)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Rippo123&show_icons=true&include_all_commits=11.1k+&cache_seconds=86400&theme=radica)
 <br>
     
 ```
 Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
-So I have 100+ Repos Private And Contributed In Many Users Private Repos.
+So I have 150+ Repos Private And Contributed In Many Users Private Repos.
 So, Don't Underestimate Any Users Having Low Stats.. 😝😝🤪
 ```
